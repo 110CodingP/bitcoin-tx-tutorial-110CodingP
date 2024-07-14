@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bitcoin-tx-tutorial
 
 This repo contains a series of python jupyter-notebooks to explain how bitcoin transactions are created and signed. The notebooks will start up an instance of bitcoind in regtest mode so that transactions can be validated and broadcasted on regtest. Each notebook has some questions and exercises to test your understanding.
@@ -76,3 +77,7 @@ The notebooks in this repo use bitcoin core's `TestShell` from its test framewor
   - Shlomi Zeltsinger's [segwit tutorial](https://github.com/zeltsi/segwit_tutorial/tree/master/transactions)
   - Jimmy Song's [Programming Bitcoin exercises](https://github.com/jimmysong/pb-exercises).
   - Bitcoin Optech [Schnorr Taproot Workshop](https://bitcoinops.org/en/schorr-taproot-workshop/)
+=======
+# learning-from-bitcoin-tx-tutorial
+My solutions for the bitcoin-tx-tutorial exercises
+>>>>>>> refs/remotes/origin/main
